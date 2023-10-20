@@ -30,7 +30,7 @@ No nosso projeto, temos por objetivo utilizar o IoT para conectar um sistema int
 
 <h2>Draft - Arquitetura IoT Paho</h2>
 
-Draft- arquitetura IoT Pwaho.pdf
+Draft- arquitetura IoT Paho.pdf
 
 
 
